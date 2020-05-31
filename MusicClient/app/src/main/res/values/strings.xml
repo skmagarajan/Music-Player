@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicClient</string>
+    <string name="bind">Bind</string>
+    <string name="unbind">Unbind</string>
+    <string name="Status">Status: </string>
+    <string name="info">Enter number for particular song details</string>
+</resources>

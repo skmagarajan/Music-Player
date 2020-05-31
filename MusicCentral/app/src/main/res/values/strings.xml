@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MusicCentral</string>
+    <string name="client">com.example.musicclient</string>
+
+    <string-array name="songs">
+        <item>Smile</item>
+        <item>Ukulele</item>
+        <item>Sweet</item>
+        <item>Happiness</item>
+        <item>Acoustic Breeze</item>
+        <item>Buddy</item>
+    </string-array>
+
+    <string-array name="com">
+        <item>Benjamin Tissot </item>
+        <item>Benjamin Tisso</item>
+        <item>Benjamin Tiss</item>
+        <item>Benjamin Tis</item>
+        <item>Benjamin Ti </item>
+        <item>Benjamin T</item>
+    </string-array>
+
+    <string-array name="URL">
+        <item>https://www.bensound.com/bensound-music/bensound-smile.mp3</item>
+        <item>https://www.bensound.com/bensound-music/bensound-ukulele.mp3</item>
+        <item>https://www.bensound.com/bensound-music/bensound-sweet.mp3</item>
+        <item>https://www.bensound.com/bensound-music/bensound-happiness.mp3</item>
+        <item>https://www.bensound.com/bensound-music/bensound-acousticbreeze.mp3</item>
+        <item>https://www.bensound.com/bensound-music/bensound-buddy.mp3</item>
+    </string-array>
+
+
+</resources>
